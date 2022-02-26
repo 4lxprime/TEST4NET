@@ -80,7 +80,7 @@ print(logo)                                                                     
 f.write(logo)                                                                   #display the logo in the log file
 print(" ")
 print(f"time : {t}")                                                            #display the time in the console
-f.write(f"\ntime : {t}\n")                                                        #display the time in the log file
+f.write(f"\ntime : {t}\n")                                                      #display the time in the log file
 print(" ")
 print(log)                                                                      #display the log message in the console
 f.write(log)                                                                    #display the log message in the log file
